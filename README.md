@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Stoch (Hira), a Developer from France</h2>
+<h2 align="center">Hi 👋! I'm Hira, a Developer from France</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stochalt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
@@ -20,8 +20,4 @@
   <a href="https://discord.com/users/1221859207553351731" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
